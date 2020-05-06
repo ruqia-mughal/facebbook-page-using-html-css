@@ -1,0 +1,181 @@
+*{
+margin:0;
+padding: 0;
+}
+
+header
+{
+background-color: #415e9b;
+height: 82px;
+border-bottom: 1px solid  #133783;
+}
+.header-block{
+	width: 992px;
+	margin:0 auto;
+		
+
+}
+.logo{
+	width: 50%;
+	float: left;
+
+
+}
+.facebook-login{
+	width: 50%;
+	float: left;
+	padding-top: 17px;
+}
+.logo img{
+	padding-top: 19px;
+	padding-bottom: 18px;
+}
+.facebook-login label{
+	color: #fff;
+
+
+}
+.email{
+	float: left;
+
+}
+.email label{
+
+padding-left: 2px;
+padding-bottom: 10px;
+}
+.email input[ type="text"]
+{
+	height: 20px;
+	width: 150px;
+	border:1px solid #1d2a5b;
+
+}
+.password{
+	float: left;
+}
+.password input[type="password"]{
+
+	height: 19px;
+	width: 150px;
+	border: 1px solid  #1d2a5b;
+margin-left: 10px;
+}
+.password label{
+padding-bottom: 10px;
+padding-left: 10px;
+margin: 1px;
+
+}
+
+.login {
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+
+}
+.login input[type="submit"]{
+	background: #4267b2;
+	border: 1px solid #29487d;
+	border-radius: 2px;
+	color: #fff;
+	height: 25px;
+	width: 55px;
+}
+
+
+.clearfix{
+	clear: both;
+}
+.content{
+	width:992px;
+	margin: 0 auto;
+}
+.facebook-connect
+{
+	margin-top: 30px;
+	width: 50%;
+	float: left;
+}
+.facebook-connect p{
+	color: #0e385f;
+	font-size: 26px;
+	font-weight: bold;
+}
+.create-account{
+	float: left;
+	width: 50%;
+}
+.content {
+	
+	background: linear-gradient(#fff,#d9ddeb);
+	overflow: hidden;
+	height: 100vh;
+	width: 100%;
+
+}
+
+.create-account .free{
+
+font-size: 19px;
+
+margin-top: 7px;
+margin-bottom: 5px;
+}
+.create-account h1{
+	font-size: 30px;
+	font-weight: bold;
+}
+.account input[type='text']
+{
+	
+	margin-bottom:7px;
+	padding: 5px;
+	border-radius: 2px;
+	border:2px solid #bdc7d8;
+
+}
+.account input[type='password']{
+	
+	margin-bottom:7px;
+	border-radius: 2px ;
+	border: 2px solid #bdc7d8;
+		padding: 4px;
+
+
+}
+.account input[type='date']{
+	font-size:12px;
+border-radius: 2px ;
+	border: 2px solid #bdc7d8;
+		padding: 1px;
+
+}
+.account span{
+	color :#77777a;
+	font-size: 15px;
+
+}
+.account input[type='submit']
+{
+	height: 39px;
+	width:194px;
+	border: 1px solid #2c5115;
+	border-radius:5px;
+	color:white;
+	background:linear-gradient( #9edd83,#65a953);
+	font-weight: bold; 
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding: 15px,22px;
+}
+.account label{
+	color: #90949c;
+	font-weight: bold;
+}
+
+
+
+
+
+
